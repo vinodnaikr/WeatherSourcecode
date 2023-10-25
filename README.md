@@ -1,1 +1,1 @@
-This is the main code that retreives the informatin/data from the API
+This is the main code that retreives the information/data from the API
